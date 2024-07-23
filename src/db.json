@@ -1,5 +1,11 @@
 {
-    "users": [],
+    "users": [
+      {
+        "id":1,
+        "username":"anilcim",
+        "password":"159357"
+      }
+    ],
     "movies": [],
     "reviews": [],
     "comments": [],

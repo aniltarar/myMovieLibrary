@@ -1,8 +1,10 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Login from './pages/Auth/Login';
 function App() {
 
   return (
     <>
-      <h1>App component</h1>
+      <Login/>
     </>
   )
 }
